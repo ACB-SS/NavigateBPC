@@ -1,0 +1,29 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header, nav, section, footer {
+    max-width: 960px;
+    margin: auto;
+    padding: 20px;
+    background-color: white;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 10px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
